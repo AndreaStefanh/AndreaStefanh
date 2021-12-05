@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreaStefanh
 - 👀 I am interested in programming and open source
-- 👨‍💻 Programming in many languages: c/c++, python, javascript, java, ruby, go etc.
+- 👨‍💻 I programming in many languages: c/c++, python, javascript, java, ruby, go etc.
 - 📫 If you want to write me in private: andreastefan0101@gmail.com
 
 <!---
